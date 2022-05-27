@@ -1,0 +1,4 @@
+ninja: Entering directory `/Users/osdnk/Projects/newfeatures/android/app/.cxx/cmake/debug/arm64-v8a'
+[1/3] Building CXX object CMakeFiles/newfeatures.dir/Users/osdnk/Projects/newfeatures/cpp/module.cpp.o
+[2/3] Building CXX object CMakeFiles/newfeatures.dir/cpp-bindings.cpp.o
+[3/3] Linking CXX shared library /Users/osdnk/Projects/newfeatures/android/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnewfeatures.so
